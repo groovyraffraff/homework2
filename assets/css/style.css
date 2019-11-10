@@ -144,9 +144,10 @@ lovely yellow ffee54 */
 .work {
   position: relative;
   float: left;
-  width: 274px;
+  width: 300px;
+  height: 300px;
   margin: 20px 0 25px;
-  overflow: auto;
+  overflow: fill
 }
 
 .work:nth-child(even) {
